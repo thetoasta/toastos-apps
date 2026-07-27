@@ -9,7 +9,7 @@
   },
   {
     "name": "toastNotes",
-    "file": "NOTES.ELF",
+    "file": "NOTES.EL",
     "url": "https://raw.githubusercontent.com/thetoasta/toastos-apps/main/NOTES.ELF",
     "version": "1.0",
     "developer": "thetoasta",
