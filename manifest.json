@@ -9,10 +9,18 @@
   },
   {
     "name": "toastNotes",
-    "file": "NOTES.EL",
+    "file": "NOTES.ELF",
     "url": "https://raw.githubusercontent.com/thetoasta/toastos-apps/main/NOTES.ELF",
     "version": "1.0",
     "developer": "thetoasta",
     "sig": "7e4a525fc0069055676d05a89a5f38aceed3aa647b61a1b5ba086a4c96f1fb5421060ab4faff6dd9eb99eca365811e60ac505e40229d79b1cbded5dcc1d4e21d35f3c7540b902b392be08469ca0f9e6ab9b49bfcaa205c150a2e61d8b2dcac36eab51d2f81aed690d343a2b0a09e0e618945db0e000075a0c79d703692a996fce3ea6ab24023071d257f60527d6a289ebf84f6babb9d8e5ad39271075a1342dfcad235a4f3cab56d4991198e0a59269950f077c162ceac05839ce7e7a291dea97d695299de0402c87e74c782c95059430f627a6674bc7a1413c45a934180b42ac4f1dd1534672a1ccf5e6e8e1ccb703e4cbbb536e31709c2d11ffdd791787dde"
+  },
+  {
+    "name": "hacker app",
+    "file": "POOPOO.ELF",
+    "url": "https://raw.githubusercontent.com/thetoasta/toastos-apps/main/POOPOO.ELF",
+    "version": "6.7",
+    "developer": "hacker incorporated",
+    "sig": ""
   }
 ]
